@@ -1,0 +1,5 @@
+pystyle==2.9
+requests==2.31.0
+user_agent==0.1.10
+colorama==0.4.6
+rich==13.7.0
