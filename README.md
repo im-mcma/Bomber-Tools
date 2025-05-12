@@ -16,7 +16,7 @@ SMS bomber tools
 پروژه را کلون کنید 🔗
 
 ```bash
-  git clone https://github.com/لینک
+  git clone https://github.com/im-mcma/Bomber-Tools
 ```
 
 به فولدر پروژه بروید 📂
