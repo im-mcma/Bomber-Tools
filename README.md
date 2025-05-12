@@ -22,7 +22,7 @@ SMS bomber tools
 به فولدر پروژه بروید 📂
 
 ```bash
-  cd bomber tools
+  cd Bomber-Tools
 ```
 
 پکیج ها را نصب کنید 🔻
