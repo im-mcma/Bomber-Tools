@@ -8,9 +8,8 @@ SMS bomber tools
 -  🔪 سریع و پر سرعت 
 
 ## 📃 پیش نیاز ها
-- [Python3.11](https://www.python.org/downloads/)
-- requests
-- PyStyle
+- pkg install python
+- pip install git
 ## نصب و راه اندازی
 
 پروژه را کلون کنید 🔗
@@ -47,4 +46,4 @@ SMS bomber tools
 
 ## 🔗 Telegram Channel
 
-https://t.me/chalder_OTP
+https://t.me/im_abi_00 
