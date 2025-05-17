@@ -47,7 +47,7 @@ if __name__ == "__main__":
         try:
             proxy_state = Fore.GREEN + "Enabled" if Functions.proxy_state() else Fore.RED + "Disabled"
             choices = {
-                "1": "call",
+                "1": "call(off)",
                 "2": "sms"
             }
             print(f"{Col.yellow}[!]{Col.gray} Proxies are {proxy_state}")
