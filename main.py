@@ -26,8 +26,8 @@ if __name__ == "__main__":
 {Fore.YELLOW}╭──────────── 🔹 Tool Information 🔹 ────────────╮{Fore.RESET}
 {Fore.YELLOW}│{Fore.RESET}                                                {Fore.YELLOW}│{Fore.RESET}
 {Fore.YELLOW}│{Fore.RESET}  {Fore.RED}Tool Name:{Fore.RESET} Bomber Tools                       {Fore.YELLOW}│{Fore.RESET}
-{Fore.YELLOW}│{Fore.RESET}  {Fore.CYAN}Channel:{Fore.RESET} 𝕚𝕞_𝕒𝕓𝕚                        {Fore.YELLOW}│{Fore.RESET}
-{Fore.YELLOW}│{Fore.RESET}  {Fore.GREEN}Link:{Fore.RESET} https://t.me/im_abi_00                {Fore.YELLOW}│{Fore.RESET}
+{Fore.YELLOW}│{Fore.RESET}  {Fore.CYAN}Channel:{Fore.RESET} KartBankiHack                        {Fore.YELLOW}│{Fore.RESET}
+{Fore.YELLOW}│{Fore.RESET}  {Fore.GREEN}Link:{Fore.RESET} https://t.me/chalder_OTP              {Fore.YELLOW}│{Fore.RESET}
 {Fore.YELLOW}│{Fore.RESET}  {Fore.MAGENTA}Created by:{Fore.RESET} 𝕚𝕞_𝕒𝕓𝕚                            {Fore.YELLOW}│{Fore.RESET}
 {Fore.YELLOW}│{Fore.RESET}                                                {Fore.YELLOW}│{Fore.RESET}
 {Fore.YELLOW}╰────────────────────────────────────────────────╯{Fore.RESET}
@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     # باز کردن لینک تلگرام هنگام اجرای کد
-    system("xdg-open tg://resolve?domain=im_abi_00")  
+    system("xdg-open tg://resolve?domain=halder_OTP")  
  
 
 
